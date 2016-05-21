@@ -1,1 +1,2 @@
 # kernel-perceptron
+dual perceptron

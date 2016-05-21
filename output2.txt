@@ -1,0 +1,4 @@
+Alphas: 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 0 1 0 0 0
+False positives: 1
+False negatives: 0
+Error rate: 10.0 %
